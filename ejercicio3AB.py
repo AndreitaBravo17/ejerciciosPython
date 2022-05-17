@@ -1,0 +1,11 @@
+print('  ')
+print('--------------------------------------------------------------------------')
+print('                             Ejercicio 3')
+print('--------------------------------------------------------------------------')
+print('  ')
+print('----Tema: Ingresar cualquier número y calcular su raíz cuadrada---')
+pedirNumeroRaiz=int(input('♦ Ingresar un número para calcular la raíz cuadrada: '))
+raizCuadrada= pedirNumeroRaiz**0.5
+print('La raíz cuadrada del número ',pedirNumeroRaiz,' es: ', raizCuadrada)
+print('  ')
+print('--------------------------------------------------------------------------')
